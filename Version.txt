@@ -1,0 +1,17 @@
+Version: 1.7
+
+This is Sublime Spam - this century's ultimate, revolutionizing ripoff of Tap Tap Revenge 3! (This is, of course, a joke. It is only highly inspired on said game.)
+
+Made by:
+Berthur / Jon G.
+30.8.2015
+
+This version is dedicated to... YOU!
+
+New in version 1.7:
+- Added helper methods for data confusion, hashing and binary I/O.
+- Minor refactoring.
+- Added highscores saving and loading.
+- Added result panel after playing a track.
+- The score now show in spaced format (e.g. '1 234 567').
+- Added personal record on track buttons in track list.

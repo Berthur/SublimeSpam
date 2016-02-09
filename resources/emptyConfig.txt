@@ -1,0 +1,6 @@
+# Configuration file for Sublime Spam.
+# This file may be edited
+# Please, use SPACEs, not TABs.
+#
+#
+username:

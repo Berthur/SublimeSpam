@@ -1,0 +1,13 @@
+# Configuration file for Sublime Spam.
+# This file may be edited.
+# Please, use SPACEs, not TABs.
+#
+#
+# The player's username:
+username: 
+#
+# The height of the in-game window (0-4). For 1080x1920-screens, the ideal is 3:
+windowHeightValue: 3
+#
+# The falling speed of entities in-game (0-4). Lower value improves visibility; higher value facilitates accuracy:
+speedValue: 3

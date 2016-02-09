@@ -1,0 +1,13 @@
+            Welcome to Sublime Spam!
+
+Sublime Spam is a music game where the player has to hit keyboard keys in a specific pattern, in synch with the music. The more accurately, the more points are scored.
+
+On tracks with three rails, use the G, H and J keys to hit the incoming Quicks (single balls, to be hit once) and Tails (balls with a tail, which are hit by keeping the key down until the tail ends), just when the graphical balls are on top of the lowermost green area. The accuracy meter in the upper right corner indicates how accurately the ball was hit. Every time a Quick or a Tail is hit, a number of points (which depends on the accuracy and on the multiplier) is scored. When a ball is missed - or a rail is hit without there being a ball at that moment - points are lost, and the multiplier bonus is reset. This bonus will increase from 1x to 8x the longer a streak of no misses goes on. The streak can be viewed in the upper right corner, while the score is displayed in large in the center, above the rails.
+While in-game, press Space to start and pause, and Esc to exit the song.
+
+In order to record a song of your own, you need to have entered a valid username to the game (can be viewed and changed in the config file) and you need to create a folder with your exact username inside the 'tracks' directory. Additionally, you need to move any mp3 file you wish to play into this new directory and name it: 'trackname;artist.mp3'. After this, the mp3 file should appear as an option when choosing 'Record' in-game.
+
+When choosing a track to record, a light grey window will appear. After pressing space once, the song will begin to play, and the recorder will record your presses on G, H and J. When you are done, press space again and the track will end there and be saved in your personal tracks folder (it can be altered manually), after you have chosen its difficulty. Keep in mind that there is no pausing in the recorder yet!
+
+
+Happy playing.
