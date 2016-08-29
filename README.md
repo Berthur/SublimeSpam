@@ -8,6 +8,11 @@ This game was highly inspired on an old favourite game of mine: Tap Tap Revenge 
 
 
 Please read Instr.txt file for instructions on how to play.
+## QUICK INSTRUCTIONS ON HOW TO DOWNLOAD AND RUN:
+1. When in the 'code' tab of this GitHub repository, select 'Clone or download' (on the right hand side) and then 'Download ZIP'.
+2. Download and extract the ZIP file to your desired location.
+3. Make sure you have a up-to-date version of Java installed on your computer.
+4. Open the `Run.jar` file with Java. If this fails, you may have to do it through your command prompt (`java -jar Run.jar`, after having navigated into the game directory (e.g. `cd Desktop/SublimeSpamFolderName` if it is located on your Desktop))
 
 # Screenshots
 
